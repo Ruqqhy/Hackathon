@@ -6,3 +6,5 @@ The marketing strategy was TV,Radio,Social Media
 Sales is what the media stratgies were used against 
 Even thou our focus was on visualization we did exploratory data analysis to help us understand our data better
 And also be ale to tell a story out of it 
+we came up with a visualization of the dataset creating an X and Y to help plot the various graphs
+it included bar graph, pie chart, scatter plot
